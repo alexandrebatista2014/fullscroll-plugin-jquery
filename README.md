@@ -8,4 +8,4 @@ O plugin utilizado foi desenvolvido por poezhang.
 
 [Link do plugin](https://www.jqueryscript.net/animation/Basic-Cross-platform-One-Page-Scroll-Plugin-jQuery-fullpage.html)
 
-![Captura de tela]()
+![Captura de tela](https://github.com/alexandrebatista2014/fullscroll-plugin-jquery/blob/master/fullscreen.gif)
